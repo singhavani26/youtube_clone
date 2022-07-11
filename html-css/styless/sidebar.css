@@ -1,0 +1,44 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    background-color: white;
+    width: 72px;
+    z-index: 200;
+    padding-top: 5px;
+
+  }
+  .sidebar-links{
+   
+    height: 105px;
+    margin-bottom: 1px;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    
+    
+  }
+  .sidebar-links:hover
+  {
+    background-color: lightgray;
+  }
+  .home-button{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 50px;
+    width: 50px;
+  }
+  .sidebar-links img{
+    height: 24px;
+    margin-bottom: 4px;
+  }
+  .sidebar-links div{
+    font-size: 10px;
+    font-family: Roboto, Arial;
+   
+
+  }
+  

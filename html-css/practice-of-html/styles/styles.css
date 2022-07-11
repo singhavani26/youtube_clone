@@ -1,0 +1,52 @@
+
+.title{
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 24px;
+    
+    font-weight: bold;
+    width: 300px ;
+    margin-bottom: 2px;
+ }
+ .views{
+    font-family: Arial;
+    font-size: 10px;
+    color:gray;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    
+    
+ }
+ .author{
+    font-family: Arial;
+    font-size: 10px;
+    color: rgb(96, 96, 96);
+    margin-top: 10px;
+
+ }
+ .stats{
+    font-family: Arial;
+    font-size: 10px;
+    color:rgb(96, 96, 96);
+    width: 200;
+    line-height: 15px;
+    margin-top: 2px;
+    
+ }
+ .shop{
+    margin-left: 10px;
+
+ }
+ .shop:hover{
+    text-decoration: underline;
+ }
+ .apple-text{
+    color: white;
+    background-color: red;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    cursor: pointer;
+
+ }
